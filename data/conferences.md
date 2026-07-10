@@ -4,3 +4,4 @@
 |----------|----------|----------|
 | WomenTech Global Conference | Hybrid | https://www.womentech.net/women-tech-conference |
 | AI Engineer World's Fair | San Francisco, CA | https://www.ai.engineer/worldsfair/2026 |
+| Grace Hopper Celebration | Hybrid | Students | Seasonal | https://ghc.anitab.org |

@@ -1,0 +1,52 @@
+name: Add a new opportunity
+description: Suggest an internship, fellowship, conference, hackathon, or scholarship.
+title: "[Opportunity]: "
+labels: ["opportunity"]
+
+body:
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+      placeholder: Google
+
+  - type: input
+    id: opportunity_name
+    attributes:
+      label: Opportunity Name
+      placeholder: STEP Internship
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Internship
+        - Fellowship
+        - Conference
+        - Hackathon
+        - Scholarship
+        - Research Program
+        - Ambassador Program
+
+  - type: input
+    id: link
+    attributes:
+      label: Official Link
+      placeholder: https://example.com
+
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: Eligibility
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: Rolling / Fall 2026
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes

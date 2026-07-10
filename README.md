@@ -1,4 +1,10 @@
 # student-tech-opportunities
+
+![Stars](https://img.shields.io/github/stars/ashmita-web/student-tech-opportunities)
+![Forks](https://img.shields.io/github/forks/ashmita-web/student-tech-opportunities)
+![Issues](https://img.shields.io/github/issues/ashmita-web/student-tech-opportunities)
+![License](https://img.shields.io/github/license/ashmita-web/student-tech-opportunities)
+
 A curated list of internships, fellowships, hackathons, conferences, scholarships, and research programs for students and early-career professionals.
 
 ## Categories
